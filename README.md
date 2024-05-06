@@ -73,16 +73,3 @@ See also the list of [contributors](https://github.com/yourusername/NumbrVault/c
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-```
-
-Remember to replace placeholders like `yourusername`, `Your Name`, and other relevant details with your actual GitHub username and personal information. This template provides a comprehensive guide for users to set up and contribute to your project.
-
-Source: Conversation with Bing, 6/5/2024
-(1) github.com. https://github.com/Rodigilber-code/innersource/tree/7c8c2fe2816f4031167132feed4d8aafd58464a4/discoverable%2Fpurplebooth.md.
-(2) github.com. https://github.com/zalog/placeholder-loading/tree/d98ab6fdb3f50d7686d790b72d8dfeb6e7a5332b/README.md.
