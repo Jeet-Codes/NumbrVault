@@ -1,4 +1,4 @@
-package com.scm.controllers;
+package com.scm.SmartContact.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
