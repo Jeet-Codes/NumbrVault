@@ -1,0 +1,15 @@
+{
+  "name": "numbrvault",
+  "version": "1.0.0",
+  "description": "NumbrVault is a secure and efficient contact management system that ensures your contacts are always accessible, even if your phone is lost or not working. With NumbrVault, you can easily retrieve your contacts by logging into your account on our website.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
